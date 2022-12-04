@@ -1,0 +1,212 @@
+/* Navigation */
+
+#navbar {
+    background-color: #262B36;
+    height: 4rem;
+}
+
+#navbar-home {
+    background-color: #262B36;
+    height: 4rem;
+
+}
+
+#aboutus {
+    color: #FFFFFF;
+}
+
+#aboutus:is(:link, :active, :visited).active {
+    color: #A10F33;
+    cursor: pointer;
+    font-weight: 400;
+    letter-spacing: 0.3rem;
+}
+
+/* About us  */
+
+#container-aboutus {
+    background-color: #F8F5F2;
+    height: 50rem;
+}
+
+#aboutus-card {
+    margin-left: 7rem;
+    width: 40rem
+}
+
+#aboutus-header {
+    color: #A10F33;
+    font-size: 2.5rem;
+}
+
+#aboutus-text {
+    color: #A10F33;
+    letter-spacing: 2px;
+    z-index: 1;
+}
+
+#aboutus-img {
+    width: 100%;
+    height: auto;
+    margin-top: 12rem;
+    margin-right: 5rem;
+    z-index: 0;
+}
+
+/* We believe in uniqueness */
+
+#container-unique {
+    height: 50rem;
+}
+
+#unique-img {
+    width: 100%;
+    height: auto;
+    margin-top: 12rem;
+    margin-right: 5rem;
+    z-index: 0;
+}
+
+#unique-card {
+    margin-left: 7rem;
+    width: 40rem;
+}
+
+#unique-header {
+    color: #A10F33;
+}
+
+#unique-header1 {
+    color: #A10F33;
+
+}
+
+#unique-text {
+    color: #A10F33;
+    letter-spacing: 2px;
+    z-index: 1;
+}
+
+/* FATCAT Specials */
+
+#container-fatcat {
+    background-color: #F8F5F2;
+    margin-top: 12rem;
+    height: 60rem;
+}
+
+#header-fatcat {
+    color: #A10F33;
+    margin-bottom: 3rem;
+    margin-top: 6rem;
+
+}
+
+#fatcat-img1 {
+    width: 30rem;
+    height: 40rem;
+}
+
+#fatcat-btn1 {
+    background-color: #BCC0CA;
+    color: #262B36;
+    opacity: 0.5;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-right: 12rem;
+    margin-top: -7rem;
+}
+
+#fatcat-btn1:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+#fatcat-img2 {
+    width: 30rem;
+    height: 40rem;
+}
+
+#fatcat-btn2 {
+    background-color: #BCC0CA;
+    color: #262B36;
+    opacity: 0.5;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-right: 12rem;
+    margin-top: -7rem;
+}
+
+#fatcat-btn2:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+#fatcat-img3 {
+    width: 30rem;
+    height: 40rem;
+}
+
+#fatcat-btn3 {
+    background-color: #BCC0CA;
+    color: #262B36;
+    opacity: 0.5;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-right: 12rem;
+    margin-top: -7rem;
+}
+
+#fatcat-btn3:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+/* Concept */
+
+#container-concept {
+    height: 60rem;
+}
+
+#concept-info1 {
+    color: #A10F33;
+    margin-top: 7rem;
+}
+
+#concept-info2 {
+    color: #A10F33;
+    margin-bottom: 4rem;
+}
+
+/* Footer */
+
+#container-footer {
+    background-color: #262B36;
+    height: 15rem;
+}
+
+#footer-info {
+    margin-top: 5rem;
+}
+
+#footer-info1 {
+    margin-top: 5rem;
+}

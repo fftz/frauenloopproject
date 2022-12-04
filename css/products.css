@@ -1,0 +1,360 @@
+/* NAVIGATION  */
+
+#navbar-home {
+    background-color: #262B36;
+    height: 4rem;
+
+}
+
+#product {
+    color: #FFFFFF;
+}
+
+#product:is(:link, :active, :visited).active {
+    color: #A10F33;
+    cursor: pointer;
+    font-weight: 400;
+    letter-spacing: 0.3rem;
+}
+
+
+/* Chocolate more chocolate */
+
+#container-choco {
+    background-color: #F8F5F2;
+    height: 70rem;
+}
+
+#choco-header {
+    color: #A10F33;
+    margin-top: 6rem;
+}
+
+#choco-headerSec {
+    color: #A10F33;
+}
+
+#choco-img-one {
+    width: 30rem;
+    height: 40rem;
+}
+
+#choco-btn-one {
+    background-color: #BCC0CA;
+    color: #262B36;
+    margin-right: 16rem;
+    opacity: 0.5;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-top: -7rem;
+}
+
+#choco-btn-one:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+#choco-img-two {
+    width: 30rem;
+    height: 40rem;
+}
+
+#choco-btn-two {
+    background-color: #BCC0CA;
+    color: #262B36;
+    margin-right: 16rem;
+    opacity: 0.8;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-top: -7rem;
+}
+
+#choco-btn-two:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+#choco-img-three {
+    width: 30rem;
+    height: 40rem;
+}
+
+#choco-btn-three {
+    background-color: #BCC0CA;
+    color: #262B36;
+    margin-right: 16rem;
+    opacity: 0.8;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-top: -7rem;
+}
+
+
+#choco-btn-three:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+/* Lava Cakes */
+
+#lava-container {
+    height: 60rem;
+}
+
+#lava-header {
+    color: #A10F33;
+    margin-top: 10rem;
+}
+
+#lava-btn-one {
+    background-color: #BCC0CA;
+    color: #262B36;
+    margin-right: 16rem;
+    opacity: 0.5;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-top: -7rem;
+}
+
+#lava-btn-one:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+#lava-btn-two {
+    background-color: #BCC0CA;
+    color: #262B36;
+    margin-right: 16rem;
+    opacity: 0.5;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-top: -7rem;
+}
+
+
+#lava-btn-two:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+
+#lava-btn-three {
+    background-color: #BCC0CA;
+    color: #262B36;
+    margin-right: 16rem;
+    opacity: 0.5;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-top: -7rem;
+}
+
+#lava-btn-three:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+/* Tasty slices */
+
+#container-tasty {
+    background-color: #F8F5F2;
+    height: 60rem;
+}
+
+#tasty-card {
+    color: #A10F33;
+    margin-top: 6rem;
+}
+
+#tasty-btn1 {
+    background-color: #BCC0CA;
+    color: #262B36;
+    opacity: 0.5;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-right: 1rem;
+    margin-top: -6rem;
+}
+
+#tasty-btn1:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+#tasty-btn2 {
+    background-color: #BCC0CA;
+    color: #262B36;
+    opacity: 0.5;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-right: 1rem;
+    margin-top: -6rem;
+}
+
+#tasty-btn2:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+#tasty-btn3 {
+    background-color: #BCC0CA;
+    color: #262B36;
+    opacity: 0.5;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-right: 1rem;
+    margin-top: -6rem;
+}
+
+#tasty-btn3:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+/* Specials */
+
+#container-special {
+    height: 80rem;
+}
+
+#special-header {
+    color: #A10F33;
+    margin-top: 10rem;
+
+}
+
+#special-card {
+    color: #A10F33;
+    margin-top: 10rem;
+}
+
+#special-btn1 {
+    background-color: #BCC0CA;
+    color: #262B36;
+    opacity: 0.5;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-right: 12rem;
+    margin-top: -6rem;
+}
+
+#special-btn1:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+#special-btn2 {
+    background-color: #BCC0CA;
+    color: #262B36;
+    opacity: 0.5;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-right: 12rem;
+    margin-top: -6rem;
+}
+
+#special-btn2:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+#special-btn3 {
+    background-color: #BCC0CA;
+    color: #262B36;
+    opacity: 0.5;
+    border: none;
+    border-radius: 30px;
+    width: 10rem;
+    height: 2.5rem;
+    margin-right: 12rem;
+    margin-top: -6rem;
+}
+
+#special-btn3:hover {
+    background-color: #A10F33;
+    border: none;
+    color: #FFFFFF;
+    opacity: 0.8;
+    transition: 0.8s;
+
+}
+
+/* Footer */
+
+#container-footer {
+    background-color: #262B36;
+    height: 15rem;
+}
+
+#footer-info {
+    margin-top: 5rem;
+}
+
+#footer-info1 {
+    margin-top: 5rem;
+}

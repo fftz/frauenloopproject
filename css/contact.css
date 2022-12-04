@@ -1,0 +1,74 @@
+/* Navigation */
+
+#navbar {
+    background-color: #262B36;
+    height: 4rem;
+
+}
+
+#contact {
+    color: #FFFFFF;
+}
+
+#contact:is(:link, :active, :visited).active {
+    color: #A10F33;
+    cursor: pointer;
+    font-weight: 400;
+    letter-spacing: 0.3rem;
+}
+
+/* Contact us*/
+
+#container-contact {
+    height: 50rem;
+}
+
+#contact-img {
+    width: 100%;
+    height: auto;
+    margin-top: 12rem;
+    margin-right: 5rem;
+    z-index: 0;
+}
+
+#contact-card {
+    margin-left: 7rem;
+    width: 40rem
+}
+
+#contact-header {
+    color: #A10F33;
+    margin-top: 12rem;
+}
+
+#contact-text {
+    color: #262B36;
+    letter-spacing: 2px;
+    z-index: 1;
+}
+
+#contact-card {
+    margin-left: 7rem;
+    width: 40rem;
+}
+
+#contact-card-text {
+    color: #262B36;
+    letter-spacing: 2px;
+    z-index: 1;
+}
+
+/* Footer */
+
+#container-footer {
+    background-color: #262B36;
+    height: 15rem;
+}
+
+#footer-info {
+    margin-top: 5rem;
+}
+
+#footer-info1 {
+    margin-top: 5rem;
+}
